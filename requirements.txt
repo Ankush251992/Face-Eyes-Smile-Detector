@@ -1,0 +1,8 @@
+# Face, Eyes, and Smile Detection using OpenCV
+# Python Packages required for the project
+
+# OpenCV library for computer vision tasks
+opencv-python==4.5.3
+
+# Imutils are a series of convenience functions to make basic image processing functions such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
+imutils==0.5.4
